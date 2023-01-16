@@ -24,3 +24,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         text.setText("You clicked the button!");
     }
 }
+
+// Test if this shows up.
